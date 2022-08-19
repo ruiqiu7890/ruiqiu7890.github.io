@@ -1,6 +1,6 @@
-## 长沙比特跳动信息技术有限公司
+<!-- ## 长沙比特跳动信息技术有限公司 -->
 
-<section style="display: flex; justify-content: space-between; align-items: center;">
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png"/>
 	</div>
@@ -15,7 +15,7 @@
 	</div>
 </section>
 
-<section style="display: flex; justify-content: space-between; align-items: center;">
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png"/>
 	</div>
