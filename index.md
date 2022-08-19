@@ -1,6 +1,5 @@
-<header>
-	<h2 style="line-height: 42px;">长沙比特跳动信息技术有限公司</h2>
-</header>
+## 长沙比特跳动信息技术有限公司
+
 <section>
 	<div style="display: inline-block;">
 		<img style="width: 256px; height: 256px;" src="https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png"/>
