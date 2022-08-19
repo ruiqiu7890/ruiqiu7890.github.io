@@ -2,8 +2,9 @@
 
 <style>#content h2 {height: 0; display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-	<div style="">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://static.starkos.cn/resource/pic/yXnzBgGk9731YrqKBYG1.png"/>
+		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/vQWd8a1w9xxaLPXO8glJ.apk">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">Top Widget万能小组件</b>
@@ -17,8 +18,9 @@
 </section>
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-	<div style="">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://static.starkos.cn/resource/pic/3LXp8LoZkWLdbob6ed0K.png"/>
+		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/9XKd8la9EqrlqMwlVZDl.apk">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">PS图片编辑</b>
@@ -32,8 +34,9 @@
 </section>
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-	<div style="">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://static.starkos.cn/resource/pic/YDlr8Ao0QoPzmQn2BAv3.png"/>
+		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/zqRv826zZApam1Dr8nbZ.apk">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">NO视频播放器</b>
@@ -47,8 +50,9 @@
 </section>
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-	<div style="">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://static.starkos.cn/resource/pic/yEGYekZLEZEyXYRqB6ao.png"/>
+		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/KXJ9eExvky2MD5q7BLAQ.apk">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">茄子传输助手</b>
@@ -58,6 +62,38 @@
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/3LXp8LoZkokRybRyed0K.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/EgJO8049g4gOkqQZ8nza.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/o6vqerqOEqE4nnmDB2LE.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://static.starkos.cn/resource/pic/3j5J86YyAp37v0ne0aMX.png"/>
+		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/D2QYBd17yqQAAaJzeJ9z.apk">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">TravelBoast</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">开始自己的足迹，快来探索吧~高清旅行地图壁纸，领略异域风情~强大的图片制作功能，快来创作自己的创作吧~</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/JvM0VDvn9vd1yJaDe6WD.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/jy4NeKLmAL4bKd0P8w1v.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/WKP1VbjnmjDz3gmGVpYE.jpg"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://static.starkos.cn/resource/pic/6vXk8Ww5OwDZGoZa8bad.png"/>
+		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/xXdyeyoJW6k2bkWYVmlK.apk">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">麻匪壁纸</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">麻匪动态壁纸拥有丰富的壁纸图片，都是超高清的，并且都是时下火爆的图片资源，免费给用户下载和使用，提供的手机壁纸风格很符合广大小伙伴们的使用需求，动态、二次元是很多用户很喜欢的图片样式，一键点击便可提前预览，如果你也想拥有一个神奇的壁纸的话可以来自由使用。如果觉得使用的壁纸不理想，您可以在这里完成图片的编辑制作操作，您可以自定义添加一些特别的元素或者调整，直到满意为止！还在等什么呢？快来体验吧！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/LmOKVmJyEJWgZ5nLBWbD.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/6vXk8Ww5OwNPm0N18bad.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/0ZodeNA9GALdldnDBYKl.png"/>
 	</div>
 </section>
 
