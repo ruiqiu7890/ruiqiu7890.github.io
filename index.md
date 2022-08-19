@@ -1,19 +1,17 @@
-## 长沙比特跳动信息技术有限公司
+<header>
+	<h2 style="line-height: 42px;">长沙比特跳动信息技术有限公司</h2>
+</header>
+<section>
+	<div style="display: inline-block;">
+		<img style="width: 256px; height: 256px;" src="https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png"/>
+	</div>
+	<div style="display: inline-block;">
+		<b style="font-size: 16px;">天天踩剧</b>
+		<p style="font-size: 14px">天天踩剧的相关介绍，哈哈哈哈</p>
+	</div>
+	<div style="display: inline-block;">
+		<img style="width: 256px; height: 256px;" src="https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg"/>
+	</div>
+</section>
 
-###### 天天猜剧
-
-![logo](https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png)    
-![展示图](https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg)
-
-
-> 
-
-[下载链接](https://appgallery.huawei.com/#/app/C106889655)
-
-----
-
-
-
-
-
-[湘ICP备2021016409号 长沙比特跳动信息技术有限公司](http://beian.miit.gov.cn/) 
+[湘 ICP 备 2021016409 号 长沙比特跳动信息技术有限公司](http://beian.miit.gov.cn/)
