@@ -1,15 +1,32 @@
 ## 长沙比特跳动信息技术有限公司
 
-<section>
-	<div style="display: inline-block;">
-		<img style="width: 256px; height: 256px;" src="https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png"/>
+<section style="display: flex; justify-content: space-between; align-items: center;">
+	<div style="">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png"/>
 	</div>
-	<div style="display: inline-block;">
-		<b style="font-size: 16px;">天天踩剧</b>
-		<p style="font-size: 14px">天天踩剧的相关介绍，哈哈哈哈</p>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">天天踩剧</b>
+		<p style="font-size: 14px;color: #999;">天天踩剧的相关介绍，哈哈哈哈</p>
 	</div>
-	<div style="display: inline-block;">
-		<img style="width: 256px; height: 256px;" src="https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg"/>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center;">
+	<div style="">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png"/>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">天天踩剧</b>
+		<p style="font-size: 14px;color: #999;">天天踩剧的相关介绍，哈哈哈哈</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg"/>
 	</div>
 </section>
 
