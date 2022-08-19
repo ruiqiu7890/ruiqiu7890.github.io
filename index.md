@@ -88,7 +88,7 @@
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">麻匪壁纸</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">麻匪动态壁纸拥有丰富的壁纸图片，都是超高清的，并且都是时下火爆的图片资源，免费给用户下载和使用，提供的手机壁纸风格很符合广大小伙伴们的使用需求，动态、二次元是很多用户很喜欢的图片样式，一键点击便可提前预览，如果你也想拥有一个神奇的壁纸的话可以来自由使用。如果觉得使用的壁纸不理想，您可以在这里完成图片的编辑制作操作，您可以自定义添加一些特别的元素或者调整，直到满意为止！还在等什么呢？快来体验吧！</p>
+		<p style="margin: 0; font-size: 14px;color: #999;">麻匪壁纸拥有丰富的壁纸图片，都是超高清的，并且都是时下火爆的图片资源，免费给用户下载和使用，提供的手机壁纸风格很符合广大小伙伴们的使用需求，动态、二次元是很多用户很喜欢的图片样式，一键点击便可提前预览，如果你也想拥有一个神奇的壁纸的话可以来自由使用。如果觉得使用的壁纸不理想，您可以在这里完成图片的编辑制作操作，您可以自定义添加一些特别的元素或者调整，直到满意为止！还在等什么呢？快来体验吧！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/LmOKVmJyEJWgZ5nLBWbD.png"/>
