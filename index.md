@@ -113,4 +113,20 @@
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://static.starkos.cn/resource/pic/vMoAVndzEv5RqaKKewJD.png"/>
+		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/xXdyeyoJWdnnOyJjVmlK.apk">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">小小笔记</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">尝遍生活中的酸甜苦辣，才是真正的人生。简洁明了的UI，强大而实用的功能，是您记录的好地方！这里，您可以记录您工作和生活中的开心、伤心、得意、失意。无以言表的瞬间，就可以以图片、视频并配上文字说明。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/zqRv82YPZYL3LPMenbZG.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/3j5J861Od7MJQxQ9e0aM.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/bAO1VjnZEWrY57b7VQy3.png"/>
+	</div>
+</section>
+
 [湘 ICP 备 2021016409 号 长沙比特跳动信息技术有限公司](http://beian.miit.gov.cn/)
