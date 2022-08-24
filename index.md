@@ -161,4 +161,36 @@
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://static.starkos.cn/resource/pic/n7WZB44rokY5d0d9BjL6.png"/>
+		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/WKP1Vbjn5xb9y4KGVpYE.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">拍图识物软件</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">看到花朵或者植物却不知道名字怎么办？让拍图识物软件来告诉你吧！可以通过拍照或者图片快速识别各种花朵、植物、草木、水果等植物，只需要轻轻一扫即可知道您想要的答案。识别过了很多植物，但是忘记了怎么办？让拍图识物来为您记录吧！保留历史记录，只要是您识别过的各种植物，这里都为您保留着！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/Knp2VGnRNz2aE5xY8rzW.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/WKP1Vbjn5xb9y4KGVpYE.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/KXJ9eExvWpZxA5v4BLAQ.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://static.starkos.cn/resource/pic/LmOKVmLQv130bdD8WbDM.png"/>
+		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/LmOKVmLQv130bdD8WbDM.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">全能打印机</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">全能打印机是一款手机连接打印机的实用小工具。工具完全免费，功能强大，支持的连接的打印机设备诸如惠普、爱普生等；支持打印的资料丰富，如身份证、银行卡、驾驶证、营业执照、各种图片等；营业内有丰富的模板资源，如计划表、书法练习贴等；快来下载体验吧！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/A1DZ87dGy136g2aWVKmW.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/9XKd8la9LjM4Zn7DVZDl.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/5R3xBQkl9rAdER9Q8EYj.png"/>
+	</div>
+</section>
+
 [湘 ICP 备 2021016409 号 长沙比特跳动信息技术有限公司](http://beian.miit.gov.cn/)
