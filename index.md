@@ -7,8 +7,8 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210520/20210520213904659yg.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">Top Widget万能小组件</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">Top Widget万能小组件是一款简单易用，却又功能强大的万能小组件。集多种小工具于一身，极大的便利了生活中的各种工具使用需求。内含多种实用工具，包含：镜子、量角器、网络测速、数字大写转换、日期计算、全屏时钟、计时器、手电筒、手持弹幕、报时等工具。【桌面时钟】包含数字时钟、模拟时钟，完全自定义的风格，等你来品。【网络测速】一键测试当前设备网速，清晰了解网络状况。【量角器】准确测量角度，实体的量角器就不再需要啦。</p>
+		<b style="font-size: 16px;color: #333;">全能科学计算器简易版</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">这是一款集合多款计算器与一身的计算器应用，能满足日常的各种计算需求。【房贷计算器】包含商业贷款、公积金贷款、组合贷款的计算，支持LPR和固定利率计算，且基点可以随意调整。【个税计算器】支持劳务报酬计算、年终奖、五险一金计算，可以根据不同城市调整起征点。【科学计算器】支持普通的数据计算。另外还有大小写转换计算、日期计算、长度计算、面积计算、速度计算、体积计算、时间计算、功率计算、热量计算、角度计算、温度计算。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211102/202111021812554yc5g.png"/>
