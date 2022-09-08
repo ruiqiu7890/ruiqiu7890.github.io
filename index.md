@@ -199,8 +199,8 @@
 		<a style="margin: 6px auto 0;" href="https://static.starkos.cn/resource/pic/ZOWnB9L5dAQqdkYnVD3k.apk">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">拍立得复古相机</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">让你的每一张图片都与众不同。拍立得复古相机专注于相机、图片编辑领域，应用包含功能如：滤镜美颜功能、亮度自动调节，九宫格切图等。对于已有的照片，可以使用应用内强大的编辑功能，如添加贴纸、美颜滤镜、裁剪缩放、旋转等。真实有爱的相机，还在等什么，快来体验吧～</p>
+		<b style="font-size: 16px;color: #333;">拍立得相机</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">让你的每一张图片都与众不同。拍立得相机专注于相机、图片编辑领域，应用包含功能如：滤镜美颜功能、亮度自动调节，九宫格切图等。对于已有的照片，可以使用应用内强大的编辑功能，如添加贴纸、美颜滤镜、裁剪缩放、旋转等。真实有爱的相机，还在等什么，快来体验吧～</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://static.starkos.cn/resource/pic/jy4NeKLmywzvK41y8w1v.jpg"/>
