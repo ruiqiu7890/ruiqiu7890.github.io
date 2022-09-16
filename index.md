@@ -3,17 +3,17 @@
 <style>#content h2 {height: 0; display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20210426/202104261607154e7h7.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210426/202104261607154e7h7.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20211020/20211020165301148jm.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20211020/20211020165301148jm.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">相框装裱大师</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">相框装裱图片是一款专业装裱照片的app，能随心所欲的装裱自己心爱的作品。1、内含丰富的模版可供使用2、可以选择任意照片装裱作品，还能现场拍照一键完成哦3、强大的滤镜没有功能，满足图片的特殊处理需求4、装裱背景颜色、背景墙随意选择5、最后就是装裱签名啦，签上您的作者大名，轻松玩转自己的作品</p>
+		<b style="font-size: 16px;color: #333;">小小追书大师</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">小小追书大师是一款实用的小说、文章阅读工具。可导入书籍、自定义封面、标题；可随意设置字体、亮度、翻页方式、日间夜间等阅读模式；阅读完的书籍，可添加阅读笔记，用来备忘哦～</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210426/202104261611322jaso.jpg"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210426/202104261611348zug2.jpg"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210426/202104261611376gg70.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211019/2021101919064875vgz.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211019/202110191906514zk1u.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211019/2021101919065477ot7.png"/>
 	</div>
 </section>
 
