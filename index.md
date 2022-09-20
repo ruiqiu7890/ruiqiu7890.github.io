@@ -7,8 +7,8 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20211020/20211020165301148jm.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">小小追书大师</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">小小追书大师是一款实用的小说、文章阅读工具。可导入书籍、自定义封面、标题；可随意设置字体、亮度、翻页方式、日间夜间等阅读模式；阅读完的书籍，可添加阅读笔记，用来备忘哦～</p>
+		<b style="font-size: 16px;color: #333;">小小追书</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">这是一款实用的小说、文章阅读工具。可导入书籍、自定义封面、标题；可随意设置字体、亮度、翻页方式、日间夜间等阅读模式；阅读完的书籍，可添加阅读笔记，用来备忘哦～</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220916/2022091609093471wpt.png"/>
