@@ -3,6 +3,22 @@
 <style>#content h2 {height: 0; display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20210519/202105191802217hkqj.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210519/202105191802217hkqj.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">彩虹壁纸</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">精美主题，分类全面，完美适配，只为你量身打造!UI界面全新设计，简洁明了，美观大方。壁纸制作：有贴纸、涂鸦、裁剪等功能，可以随意编辑自己喜欢的壁纸啦！精选分类：分类众多，总有一款壁纸主题适合你！高清壁纸：完美像素，高分辨率，堪称壁纸视觉盛宴！壁纸预览：百分百还原替换壁纸后的桌面效果哦！一键收藏：喜欢的照片，快点收藏吧，下次可以一键到达啦！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210322/2021032219571397lxl.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210322/202103221957194eg39.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210322/2021032219572385luq.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20211020/20211020165301148jm.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20211020/20211020165301148jm.png">下载</a>
 	</div>
