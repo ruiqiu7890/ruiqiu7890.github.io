@@ -8,7 +8,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20211109/2021110915065280lsv.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">动感音乐相册制作</b>
+		<b style="font-size: 16px;color: #333;">动感相册</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">开始来制作您的相册吧～零基础也会使用的应用，一键套用，轻松制作精美的视频大片。可以将孩子成长的过程、与另一半甜蜜的时光、与家人相聚的日子、大学时光等美好回忆制作成相册，打造一款专属你的相册MV。【推荐点】- 轻松制作独特的相册MV，一看即懂，简单上手- 震撼的转场特效，让你的MV更酷炫- 数十款精美质感滤镜，装饰你的照片- 多款质感音乐，可选择契合场景的质感音乐- 输出超清画质</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
