@@ -4,11 +4,27 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/2022103118224247wda.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/2022103118224247wda.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">扫一扫全能王</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">图片识别效率更快速，操作 简捷，工作学习效率倍增！ 扫描快：只要对准纸质文件，立即完成扫描； 识别快：自动识别图片内文字，快速提取文字信息； 上手快：不怕手抖，自动校准功能功能简洁强大； 优化快：自动增强对比、纠正倾斜，文字清晰分明。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/202210311833214l4z1.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/202210311833249tlm8.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/2022103118332764hvn.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221028/2022102818473227x9r.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221028/2022102818473227x9r.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">涂色绘画板</b>
+		<b style="font-size: 16px;color: #333;">儿童涂色绘画板</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">这是一款实用的绘画画板工具！ 集成了图片涂鸦、普通画板、田字格、黑板等多种画板主题； 还能临摹简笔画，培养艺术技巧，提升艺术涵养！ 绘画完成后可一键保存，也可以用于记录瞬间的灵感！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
