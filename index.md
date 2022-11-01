@@ -8,8 +8,8 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311850003qaqp.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">扫一扫全能王</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">天天韩剧吧汇聚了海量热门韩剧资源，各种类型影视解读，让您自由掌控休闲时间。 内容每日更新，推荐不断； 海量高清大图壁纸，留住影片中搞笑或经典瞬间； 高质量影评深入浅出，给您不一样的精彩；</p>
+		<b style="font-size: 16px;color: #333;">韩剧天堂</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">汇聚了海量热门韩剧资源，各种类型影视解读，让您自由掌控休闲时间。 内容每日更新，推荐不断； 海量高清大图壁纸，留住影片中搞笑或经典瞬间； 高质量影评深入浅出，给您不一样的精彩；</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221031/202210311903498uddr.png"/>
@@ -168,7 +168,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210520/20210520213904659yg.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">全能科学计算器简易版</b>
+		<b style="font-size: 16px;color: #333;">全能科学计算器比特版</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">这是一款集合多款计算器与一身的计算器应用，能满足日常的各种计算需求。【房贷计算器】包含商业贷款、公积金贷款、组合贷款的计算，支持LPR和固定利率计算，且基点可以随意调整。【个税计算器】支持劳务报酬计算、年终奖、五险一金计算，可以根据不同城市调整起征点。【科学计算器】支持普通的数据计算。另外还有大小写转换计算、日期计算、长度计算、面积计算、速度计算、体积计算、时间计算、功率计算、热量计算、角度计算、温度计算。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
