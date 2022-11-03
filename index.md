@@ -8,7 +8,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311850003qaqp.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">韩剧天堂</b>
+		<b style="font-size: 16px;color: #333;">韩剧星球</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">汇聚了海量热门韩剧资源，各种类型影视解读，让您自由掌控休闲时间。 内容每日更新，推荐不断； 海量高清大图壁纸，留住影片中搞笑或经典瞬间； 高质量影评深入浅出，给您不一样的精彩；</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
