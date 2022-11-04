@@ -4,8 +4,8 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311850003qaqp.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221031/202210311850003qaqp.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221104/2022110411110962ddy.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221104/2022110411110962ddy.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">韩剧星球</b>
